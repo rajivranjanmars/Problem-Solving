@@ -8,4 +8,4 @@ Compile a single source file at a time, for example `g++ -std=c++11 simpleArrayS
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
